@@ -1,23 +1,23 @@
-# 🎨 RGB Color Detection
+#  RGB Color Detection
 
 A simple **Streamlit + OpenCV** application that detects the dominant color of an image by analyzing its RGB values.
 
-## ✨ Features
+##  Features
 
-- 📷 Capture an image using camera
-- 📁 Upload an image
-- 🎨 Detect dominant RGB color
-- 📊 Display Red, Green, and Blue values
-- 📹 Local webcam support
+-  Capture an image using camera
+-  Upload an image
+-  Detect dominant RGB color
+-  Display Red, Green, and Blue values
+-  Local webcam support
 
-## 🛠️ Technologies
+##  Technologies
 
 - Python
 - Streamlit
 - OpenCV
 - NumPy
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install dependencies
 
@@ -37,7 +37,7 @@ streamlit run app.py
 http://localhost:8501
 ```
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 rgb_detection/
@@ -46,6 +46,6 @@ rgb_detection/
 └── README.md
 ```
 
-## 🎯 How It Works
+##  How It Works
 
 The application calculates the average **Red, Green, and Blue** values of the image and identifies the channel with the highest value as the dominant color.
