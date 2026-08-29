@@ -49,3 +49,14 @@ rgb_detection/
 ##  How It Works
 
 The application calculates the average **Red, Green, and Blue** values of the image and identifies the channel with the highest value as the dominant color.
+
+##  Future Enhancements
+
+-  Detect more colors such as Yellow, Orange, Purple, and Pink
+-  Add RGB histograms and charts
+-  Generate a complete color palette
+-  Add analysis history
+-  Export analysis results
+-  Add AI-based color recognition
+-  Improve webcam support for online deployment
+-  Improve the user interface
